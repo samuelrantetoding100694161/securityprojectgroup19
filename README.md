@@ -5,7 +5,7 @@
 Haider Sarmad  100622306 \
 Richard Said	 100659431 \
 Samuel Rantetoding  100694161 \
-Shayan Sepasdar  100722542 \
+Shayan Sepasdar  100722542 
 
 ## How to run the code:
 1. Extract the zip folder
